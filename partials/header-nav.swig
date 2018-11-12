@@ -8,5 +8,5 @@
     <li class="item--more"><a href="#" class="item--more">More</a></li>
 </ul>
 <script type="text/javascript">
-    document.getElementById('contribute').innerHTML = 'Contribute :|'
+    document.getElementById('contribute').innerHTML = 'Contribute :)'
 </script>
